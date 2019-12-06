@@ -3,3 +3,4 @@ requests
 responses
 bs4
 google
+plotly==4.3.0
